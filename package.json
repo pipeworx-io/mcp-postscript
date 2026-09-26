@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-postscript",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Postscript MCP Pack — SMS marketing for Shopify.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9f5da85e935f6eea127f038affa44a2ef1836e9c8c8b864f30bb4f495b42f60a",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-df87dadf951be0f025c37c9069e6db830dd79d91940620346d5eb3a59875e641",
+    "sourceCommit": "4d51421bd010ad9a322c2245b70b401604912eff"
   }
 }
